@@ -10,9 +10,13 @@ This project involves analyzing and visualizing employee data from ABC Company, 
 2. 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
 
    > Analyzing the distribution of employees across teams and calculating percentages.
+   
    > Categorizing employees based on their positions.
+   
    > Identifying the predominant age group.
+    
    > Pinpointing the team and position with the highest salary expenditure.
+   
    > Investigating the correlation between age and salary.
 
 3. 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Represent findings effectively using visual tools like pie charts, bar charts, heatmap and scatter plots.
